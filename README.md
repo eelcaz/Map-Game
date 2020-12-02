@@ -4,8 +4,8 @@ Installation instructions
 Create a text file named "requirements.txt"
 Paste the following:
 
-click==7.1.2
-Flask==1.1.2
+click==7.1.2 \\
+Flask==1.1.2 \\
 itsdangerous==1.1.0
 Jinja2==2.11.2
 kaleido==0.0.3.post1
