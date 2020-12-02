@@ -4,20 +4,34 @@ Installation instructions
 Create a text file named "requirements.txt"
 Paste the following:
 
-click==7.1.2 \\
-Flask==1.1.2 \\
+click==7.1.2
+
+Flask==1.1.2
+
 itsdangerous==1.1.0
+
 Jinja2==2.11.2
+
 kaleido==0.0.3.post1
+
 MarkupSafe==1.1.1
+
 numpy==1.19.4
+
 pandas==1.1.4
+
 pkg-resources==0.0.0
+
 plotly==4.13.0
+
 python-dateutil==2.8.1
+
 pytz==2020.4
+
 retrying==1.3.3
+
 six==1.15.0
+
 Werkzeug==1.0.1
 
 Launch your local version of linux (wsl, ubuntu)
